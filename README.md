@@ -1,9 +1,9 @@
 ### About me
 I am a DeFi and NFT marketplace developer.
 
-I have been researching and developing DeFi projects for 2 years and have very rich experience in this field.
+I have been researching and developing DeFi projects for 2 years and have very rich experience in this field.<br/>
 I experienced Uniswap, SushiSwap and Pancakeswap booms, and I have been studying DeFi projects and learned the forking methods from Uniswap.
-I am currently all-in on Pancakeswap Forking projects.
+I am currently all-in on Pancakeswap Forking projects.<br/>
 I have already performed a number of Pancakeswap Forking projects on Fiverr and has launched a number of DeFi sites.
 
 Please check my Fiverr Gig.<br/>
