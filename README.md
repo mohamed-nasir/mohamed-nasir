@@ -42,7 +42,7 @@ Thank you.
 
 Cryptocurrency<br/>Mobile Wallet | Cryptocurrency<br/>Desktop Wallet | Cryptocurrency<br/>Betting Game | MOBILE<br/>Application
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<a href="#"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/CoinBridge-Feature-370x370.jpg" width="370"></a>| <a href="https://aldenplatform.io/"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/Main_News@2x-370x370.jpg" width="370"></a>| <a href="https://bitwilly.com/"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/Bitwilly-370x370.jpg" width="370"></a>|<a href="https://apps.apple.com/it/app/spreewhere/id1462263606"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/Spreewhere-Feature-370x370.jpg" width="370"></a>
+<a href="https://bpswap.finance/"><img src="http://nasirprofile.com/assets/images/blog/bpswap-thum-1.jpg" width="370"></a>| <a href="https://fishswap.app/"><img src="http://nasirprofile.com/assets/images/blog/fishswap-thum-1.jpg" width="370"></a>| <a href="https://faev.io/"><img src="http://nasirprofile.com/assets/images/blog/faev-finance-thum-1.jpg" width="370"></a>|<a href="https://bigfootfinance.io/"><img src="http://nasirprofile.com/assets/images/blog/bigfoot-finance-thum-1.jpg" width="370"></a>
 <br>
 
 <!--
