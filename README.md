@@ -40,7 +40,6 @@ Thank you.
 
 ### Portfolio
 
-Cryptocurrency<br/>Mobile Wallet | Cryptocurrency<br/>Desktop Wallet | Cryptocurrency<br/>Betting Game | MOBILE<br/>Application
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <a href="https://bpswap.finance/"><img src="http://nasirprofile.com/assets/images/blog/bpswap-thum-1.jpg" width="370"></a>| <a href="https://fishswap.app/"><img src="http://nasirprofile.com/assets/images/blog/fishswap-thum-1.jpg" width="370"></a>| <a href="https://faev.io/"><img src="http://nasirprofile.com/assets/images/blog/faev-finance-thum-1.jpg" width="370"></a>|<a href="https://bigfootfinance.io/"><img src="http://nasirprofile.com/assets/images/blog/bigfoot-finance-thum-1.jpg" width="370"></a>
 <br>
