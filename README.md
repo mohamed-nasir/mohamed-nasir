@@ -45,9 +45,9 @@ Thank you.
 <a href="https://bpswap.finance/"><img src="http://nasirprofile.com/assets/images/blog/bpswap-thum-1.jpg" width="370"></a>| <a href="https://fishswap.app/"><img src="http://nasirprofile.com/assets/images/blog/fishswap-thum-1.jpg" width="370"></a>| <a href="https://faev.io/"><img src="http://nasirprofile.com/assets/images/blog/faev-finance-thum-1.jpg" width="370"></a>|<a href="https://bigfootfinance.io/"><img src="http://nasirprofile.com/assets/images/blog/bigfoot-finance-thum-1.jpg" width="370"></a>
 <br>
 
- Tarantula | Abrakadabra Finance |  | 
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<a href="https://tarantula.finance/"><img src="http://nasirprofile.com/assets/images/blog/tarantula-defi-thumb-1.jpg" width="370"></a>| <a href="https://abrakadabra.tech/"><img src="http://nasirprofile.com/assets/images/blog/abrakadabra-finance.jpg" width="370"></a>|  | 
+ Tarantula | Abrakadabra Finance
+:-------------------------:|:-------------------------:
+<a href="https://tarantula.finance/"><img src="http://nasirprofile.com/assets/images/blog/tarantula-defi-thumb-1.jpg" width="370"></a>| <a href="https://abrakadabra.tech/"><img src="http://nasirprofile.com/assets/images/blog/abrakadabra-finance.jpg" width="370"></a>
 <br>
 
 <!--
